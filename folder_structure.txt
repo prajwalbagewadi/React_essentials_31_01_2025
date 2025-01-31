@@ -1,0 +1,14 @@
+npx - node package executer -> run / without install
+npm - node package manager -> install and run
+
+folder/
+/src -> contains all the important
+code files of the project(running files of the project.)(private.)
+
+/public -> all shareable assets are kept in public folder. 
+
+/node_modules -> contains all installed libraries.(necessary files.)
+
+
+delete all (excluding : app.js,index.js)
+
